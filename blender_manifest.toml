@@ -1,0 +1,9 @@
+schema_version = "1.0.5"
+id = "sync_bones"
+version = "1.0.5"
+name = "Sync Common Bones"
+tagline = "Copy-Transforms all matching bone names"
+maintainer = "RedialC"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["GPL-3.0-or-later"]
